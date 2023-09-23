@@ -100,3 +100,10 @@ input::placeholder {
   text-align: left;
   color: #000000;
 }
+
+
+@media (max-width:768px){
+    .page{
+        width:100vw;
+    }
+}
